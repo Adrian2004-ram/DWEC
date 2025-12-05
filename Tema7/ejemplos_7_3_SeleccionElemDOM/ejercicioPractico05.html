@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- 
+    Ejercicio 5: Selección con querySelectorAll
+    Enunciado: Selecciona todos los párrafos dentro de un div con clase contenedor y ponlos en negrita.
+
+    -->
+    <div class="contenedor">
+        <p>P1</p>
+        <p>P2</p>
+    </div>
+
+
+    <script>
+        let ps = document.querySelectorAll(".contenedor p");
+        ps.forEach(p => p.style.fontWeight = "bold");
+    </script>
+
+</body>
+</html>

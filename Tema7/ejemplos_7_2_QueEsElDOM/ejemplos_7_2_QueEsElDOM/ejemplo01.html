@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p id="miParrafo">Hola, soy un párrafo.</p>
+    <button id="btm">CAMBIAR</button>
+
+    <script>
+        let p = document.getElementById("miParrafo");
+
+
+        let btm = document.getElementById("btm");
+        btm.addEventListener('click', () => p.textContent = "¡Texto modificado con JavaScript!");
+    </script>
+
+</body>
+</html>

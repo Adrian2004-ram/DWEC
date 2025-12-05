@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- 
+    Ejercicio 3: Selección por clase
+    Enunciado: Cambia el fondo de todos los elementos con clase resaltar a gris claro.
+
+    -->
+    <p class="resaltar">P1</p>
+    <p class="resaltar">P2</p>
+
+    <script>
+        let res = document.getElementsByClassName('resaltar');
+        for(let p of res) {
+            p.style.backgroundColor = "#eee";
+        }
+    </script>
+
+
+</body>
+</html>
