@@ -1,0 +1,19 @@
+body {
+    background-color: #232323;
+}
+
+h1 {
+    background-color: #919191;
+    border-radius: 5px;
+}
+
+li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+li .acciones i {
+    margin-left: 10px;
+    cursor: pointer;
+}
