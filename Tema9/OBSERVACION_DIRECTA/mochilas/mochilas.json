@@ -1,0 +1,186 @@
+[
+{
+	"nombre": "Timbuk2, un modelo elegante y espacioso" ,
+	"wear" :"office",
+	"gender": "male" ,
+	"img": "1517932601.jpg" ,
+	"description": "Este modelo destaca por su amplio espacio y diseño, que se distingue de la clásica apariencia de este tipo de mochilas. Cuenta con un bolsillo frontal para guardar distintos objetos y una correa para sujetar las llaves. El espacio central es amplio y tiene diferentes compartimentos para organizar las pertenencias, así como un sitio para una tablet. Por último, la cremallera posterior da acceso al espacio destinado exclusivamente para un portátil de hasta 15 pulgadas, separado del resto de objetos." ,
+	"price": 109 ,
+	"currency": "eu" ,
+	"shop": "amazon"
+
+} ,
+
+{
+	"nombre": "STM Trust: ideal si quieres llevar de todo" ,
+	"wear" :"office",
+	"gender": "male" ,
+	"img": "1517935704.jpg" ,
+	"description": "La opción perfecta para quienes prefieren llevar bandolera sin sacrificar espacio. La STM Trust tiene un compartimento posterior especialmente diseñado para portátiles de 13 pulgadas. Además, bajo la solapa frontal cuenta con dos espacios, uno con organizadores para objetos pequeños, como los bolígrafos y el móvil, y otro más amplio para documentos, libros e incluso un compartimento para la tablet. Los materiales son idóneos para el uso diario, tanto para ambientes formales como informales." ,
+	"price": 28 ,
+	"currency": "eu" ,
+	"shop": "ebay"
+
+} ,
+
+{
+	"nombre": "Maletín Incase Reform" ,
+	"wear" :"office",
+	"gender": "male" ,
+	"img": "1517935813.jpg" ,
+	"description": "Para quienes prefieren un maletín más práctico y delgado, esta bandolera de Incase solo tiene el grosor necesario para guardar el portátil, la tablet y algunos documentos. Cuenta con dos compartimentos: el frontal, para diversos objetos, y el trasero, específico para un portátil de 13 pulgadas, ya que cuenta con una protección plástica dura que lo protege de cualquier golpe. El diseño es perfecto para cualquier situación de trabajo y tiene un asa cómoda para cargarla como maletín. También hay una versión en mochila con las mismas prestaciones." ,
+	"price": 99 ,
+	"currency": "eu" ,
+	"shop": "amazon"
+
+} ,
+
+{
+	"nombre": "Samsonite Zenith: se adapta a varios tamaños de portátil" ,
+	"wear" :"office",
+	"gender": "male" ,
+	"img": "1517935847.jpg" ,
+	"description": "Si lo que te preocupa al elegir una mochila para el portátil es tener suficiente espacio para todas tus pertenencias y que además cada una tenga asignado un compartimento, el modelo Zenith de Samsonite es el indicado. El amplio espacio central de la mochila tiene diversos organizadores para todos los objetos de oficina más comunes y diversas ranuras pensadas para pasar cables —de cargadores o auriculares— entre diferentes compartimentos. Además, la división para el portátil se adapta a cualquier tamaño y medida del equipo. También hay disponible una versión en formato maletín." ,
+	"price": 135 ,
+	"currency": "eu" ,
+	"shop": "amazon"
+
+} ,
+
+{
+	"nombre": "Tumi con detalles de cuero" ,
+	"wear" :"office",
+	"gender": "male" ,
+	"img": "1517935886.jpg" ,
+	"description": "Una mochila fabricada para los amantes del lujo. Desde la apariencia hasta los materiales, este equipaje brilla por sí mismo. El exterior mezcla una tela gris resistente con detalles en cuero café. En cuanto a funcionalidad, tiene tres grandes bolsillos frontales con cremallera, además de otros dos laterales. Cuenta asimismo con un gran compartimento central recubierto con lona y con espacios para el portátil, la tablet y suficiente amplitud para más objetos." ,
+	"price": 219 ,
+	"currency": "eu" ,
+	"shop": "El Corte Ingles"
+
+} ,
+
+{
+	"nombre": "Booq Cobra Squeeze" ,
+	"gender": "male" ,
+	"wear" :"office",
+	"img": "1517935917.jpg" ,
+	"description": "La mochila perfecta para salir de los diseños tradicionales y lucir un modelo atractivo y moderno. Está compuesta en un 47% de PET (como el que se usa en las botellas de agua) reciclado y un 53% de algodón hidrófugo, que es impermeable pero con un tacto agradable. El asa y las cremalleras tienen acabados de piel napa genuina. El interior está dividido en compartimentos para los objetos imprescindibles: documentos, ratón, bolígrafos, cargador y un portátil de hasta 15,4 pulgadas. Este último es de terciopelo para evitar rasguños en el equipo." ,
+	"price": 195 ,
+	"currency": "eu" ,
+	"shop": "amazon"
+
+} ,
+
+{
+	"nombre": "Incase City Compact" ,
+	"wear" :"city",
+	"gender": "male" ,
+	"img": "1517935980.jpg" ,
+	"description": "Un diseño estilizado y acolchado perfecto para andar por la ciudad. Tiene un compartimento forrado especialmente para proteger un portátil de hasta 15 pulgadas. Las correas de los hombros y la cubierta de la espalda también son acolchadas y con malla para dejar circular el aire. Cuenta con dos bolsillos centrales para un rápido acceso." ,
+	"price": 102 ,
+	"currency": "eu" ,
+	"shop": "ebay"
+
+} ,
+
+{
+	"nombre": "Thule Paramount 24L: para proteger bien tu equipo" ,
+	"wear" :"city",
+	"gender": "male" ,
+	"img": "1517936012.jpg" ,
+	"description": "La funda interior para portátil de esta mochila de la marca Thule es de doble densidad y tiene una estructura que protege las esquinas del equipo. También tiene un bolsillo de forro suave para una tablet y acceso a estos dos compartimentos desde la parte superior y desde una cremallera lateral. Un tercer bolsillo pequeño acolchado funciona para proteger unas gafas o un móvil. Además, el compartimento central puede desenrollarse para aumentar su capacidad. En la parte frontal puede acoplarse un mosquetón o una luz de bicicleta. Para rematar, el material exterior está hecho con nylon, resistente al agua." ,
+	"price":  89 ,
+	"currency": "eu" ,
+	"shop": "amazon"
+
+} ,
+
+{
+	"nombre": "STM Prime, comodidad y sencillez" ,
+	"wear" :"city",
+	"gender": "male" ,
+	"img": "1517936049.jpg" ,
+	"description": "Este modelo es perfecto para quienes buscan practicidad durante los recorridos por la ciudad. El compartimento principal tiene organizadores para diferentes accesorios y documentos y un espacio principal para un portátil de 13 pulgadas. También tiene un bolsillo interior con cremallera y otro exterior acolchado para proteger unas gafas o un móvil. Sus dimensiones evitan molestias por espacio o peso. Está disponible en colores azul, acero, gris hielo y negro." ,
+	"price": 70 ,
+	"currency": "eu" ,
+	"shop": "amazon"
+
+} ,
+
+
+{
+	"nombre": "Herschel Retreat" ,
+	"wear" :"city",
+	"gender": "male" ,
+	"img": "1517936088.jpg" ,
+	"description": "Andar por la ciudad no significa tener que sacrificar la apariencia de la mochila para el portátil. Ese es precisamente el punto más fuerte de este modelo de Herschel, cuyas correas para asegurar el compartimento interior lucen por sus detalles en cuero y sus hebillas metálicas. Tanto el interior como las bandas para los hombros tienen un acolchado grueso y cuenta con un compartimento con protección extra para un portátil de 13 pulgadas. En el lateral tiene una salida para el cable de unos auriculares. Hay seis diseños diferentes para escoger." ,
+	"price": 81 ,
+	"currency": "eu" ,
+	"shop": "amazon"
+
+} ,
+
+{
+	"nombre": "Samsonite Cityvibe" ,
+	"wear" :"city",
+	"gender": "male" ,
+	"img": "1517936127.jpg" ,
+	"description": "Esta puede ser una de las mejores mochilas para aquellos que necesitan mucho espacio y prestaciones para su uso en ciudad y que, además, requieren un aspecto de negocios. Está dividida en dos grandes compartimentos: el frontal, con secciones para un tablet, tarjetas y otros accesorios, y el trasero, acolchado para un portátil de 14 pulgadas y cinta de velcro para asegurarlo, así como otro compartimento para la tablet y bolsillos para sus respectivos accesorios. Tiene dos bolsillos laterales y una cremallera para expandir el espacio interior. También hay una versión en maletín." ,
+	"price": 110 ,
+	"currency": "eu" ,
+	"shop": "amazon"
+
+} ,
+
+{
+	"nombre": "Bolso Kensington" ,
+	"wear" :"everywhere",
+	"gender": "female" ,
+	"img": "1517936177.jpg" ,
+	"description": "Este bolso de mujer Kensington es la mezcla ideal entre elegancia y usabilidad. Se trata de un modelo clásico, hecho con piel sintética y sin estridencias, que incluye las ventajas de un bolso adaptado para llevar el ordenador. Cuenta con un compartimento acolchado que permite llevar un portátil de hasta 15,6 pulgadas y varios bolsillos para diferentes artículos. Además, tiene un cierre de centro de metal y dos asas reforzadas para colgar del hombro, antebrazo o mano." ,
+	"price": 166 ,
+	"currency": "eu" ,
+	"shop": "amazon"
+
+} ,
+
+{
+	"nombre": "Mochilas Tumi" ,
+	"wear" :"everywhere",
+	"gender": "female" ,
+	"img": "1517936216.jpg" ,
+	"description": "Para las mujeres que prefieren la comodidad de una mochila sin perder estilo están los diferentes modelos que ofrece la marca Tumi. En concreto, seleccionamos dos similares, hechos en nylon. La que destacamos es negra y cuenta con doble compartimento con cremalleras y varios bolsillos en el interior que permite guardar diversos artículos. Además, tiene un bolsillo exterior frontal. El otro modelo seleccionado es en color topo y no tiene dos compartimentos separados, aunque si cuenta con una zona separada para colocar el portátil. Tiene un cierre principal de cremallera, un bolsillo interior y dos exteriores con cremallera." ,
+	"price": 295 ,
+	"currency": "eu" ,
+	"shop": "El Corte Ingles"
+
+} ,
+
+{
+	"nombre": "Samsonite Zalia" ,
+	"wear" :"everywhere",
+	"gender": "female" ,
+	"img": "1517936251.jpg" ,
+	"description": "Los modelos Zalia de Samsonite cuentan con tres productos diferentes para mujeres entre los que se puede elegir el que más se adapte a las necesidades de cada uno. Destacamos la mochila en color beige para ordenadores de hasta 14,1 pulgadas. Está hecha en nylon con doble compartimento y diferentes bolsillos con y sin cremallera. El modelo Zalia ofrece otra opción, en este caso más retro, con compartimento único y un bolso más elegante que permite su uso en eventos más formales (este con doble compartimento y capacidad para portátiles de hasta 15,6 pulgadas). Finalmente, existe una tercera opción como bolso de mano con prestaciones similares." ,
+	"price": 90 ,
+	"currency": "eu" ,
+	"shop": "amazon"
+
+} ,
+
+{
+	"nombre": "Piquadro Celion" ,
+	"wear" :"everywhere",
+	"gender": "female" ,
+	"img": "1517936293.jpg" ,
+	"description": "El último artículo seleccionado es una mochila de la marca Piquadro, de la serie Celion. Destaca por su diseño y comodidad, que permite cargar con objetos pesados como el portátil durante más tiempo sin molestias por su ergonomía. Cuenta con un compartimento principal y dos bolsillos exteriores con cremallera: uno en la parte superior y otro más pequeño en el frontal." ,
+	"price": 193 ,
+	"currency": "eu" ,
+	"shop": "amazon"
+
+}
+
+]
+
+
+
