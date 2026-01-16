@@ -1,0 +1,35 @@
+
+Ejercicio 1 - Manejador de eventos crossbrowser. (5P)
+Dado el código que se entrega:
+Se pide:
+
+    Crea un manejador de eventos crossbrowser (que soporte distintos 
+    navegadores) Aplicado al ejercicio que se entrega dicho código.
+    Utiliza el capítulo de teoría para crearlo.
+    Úsalo para el evento "click" de los botones que cambiar el color 
+    de fondo de la página.
+
+Ejercicio 2 Modelo delegado de eventos (obtener la fuente del evento 
+de e.target | e.srcElement) (5P)
+Dada la siguiente lista:
+
+<ul id="miNav">
+    <li><a href="#nosotros">¿Quienes Somos?</a></li>
+    <li><a href="#objetivos">Los objetivos</a></li>
+    <li><a href="#equipo">Nuestro Equipo</a></li>
+    <li><a href="#detalles">Más detalles</a></li>
+    <li><a href="#contacta">Contactanos</a></li>
+ </ul>
+
+Se pide:
+
+    Crear un documento con html, css y javascript donde la incluyas.
+    Genera el código javascript en un archivo javascript separado 
+    llamado "script.js". Usa el modelo delegado de eventos sobre un 
+    manejador de eventos crossbrowser (visto en punto anterior), para 
+    capturar el evento onclick sobre cada uno de los elementos de la 
+    lista (elementos a). Se hará sobre el elemento común a todos ellos 
+    (elemento  <ul id="miNav"> ) que será al que delegaremos la gestión 
+    de los eventos. Crear dicho manejador de eventos click sobre este 
+    único elemento. Al hacer click sobre cada elemento de la lista, se 
+    cambiará su color de fondo con un color aleatorio.

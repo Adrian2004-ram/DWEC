@@ -1,0 +1,6 @@
+[
+    {"nombre":"laptop","precio":800,"cantidad":4},
+    {"nombre":"mouse","precio":20,"cantidad":10},
+    {"nombre":"teclado","precio":50,"cantidad":6},
+    {"nombre":"monitor","precio":300,"cantidad":3}
+]
